@@ -1,0 +1,47 @@
+---
+indexpage:
+  title: Cloud Volumes ONTAP 9.17.1 Note di rilascio
+  summary: Queste note di rilascio descrivono le nuove funzionalità, le limitazioni
+    e i problemi noti per Cloud Volumes ONTAP 9.17.1.
+  keywords: RN, CVO, release notes Cloud Volumes ONTAP
+  lead: Queste note di rilascio descrivono le nuove funzionalità, le limitazioni e
+    i problemi noti per Cloud Volumes ONTAP 9.17.1.
+  tiles:
+  - title: Inizia
+    links:
+    - title: Novità
+      url: reference-new.html
+    - title: Panoramica delle licenze
+      url: concept-licensing.html
+  - title: Amazon Web Services
+    links:
+    - title: Configurazioni supportate
+      url: reference-configs-aws.html
+    - title: Limiti di archiviazione
+      url: reference-limits-aws.html
+    - title: Limitazioni
+      url: reference-limitations-aws.html
+  - title: Google Cloud
+    links:
+    - title: Configurazioni supportate
+      url: reference-configs-gcp.html
+    - title: Limiti di archiviazione
+      url: reference-limits-gcp.html
+    - title: Limitazioni
+      url: reference-limitations-gcp.html
+  - title: Microsoft Azure
+    links:
+    - title: Configurazioni supportate
+      url: reference-configs-azure.html
+    - title: Limiti di archiviazione
+      url: reference-limits-azure.html
+    - title: Limitazioni
+      url: reference-limitations-azure.html
+  - title: Blog e community
+    links:
+    - title: NetApp Console
+      url: https://www.netapp.com/console
+    - title: NetApp Data Services
+      url: https://www.netapp.com/data-services/
+    - title: Community NetApp
+      url: https://community.netapp.com/

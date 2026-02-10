@@ -1,0 +1,30 @@
+= 
+:allow-uri-read: 
+
+
+[role="lead"]
+Sono disponibili diverse opzioni di licensing per Cloud Volumes ONTAP. Ogni opzione consente di scegliere un modello di consumo che soddisfa le tue esigenze.
+
+Le seguenti opzioni di licensing sono disponibili per i nuovi clienti.
+
+Pacchetti di licensing basati sulla capacità:: Le licenze basate sulla capacità consentono di pagare Cloud Volumes ONTAP per TiB di capacità. La licenza è associata al tuo NetApp account e consente di addebitare più sistemi sulla licenza, purché sia disponibile capacità sufficiente tramite la licenza.
++
+--
+Le licenze basate sulla capacità sono disponibili sotto forma di _pacchetto_. Quando si distribuisce un sistema Cloud Volumes ONTAP, è possibile scegliere tra diversi pacchetti di licenze in base alle esigenze aziendali.
+
+--
+
+
+https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-licensing.html#packages["Pacchetti"^] https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-licensing-charging.html["Ulteriori informazioni sulle licenze basate sulla capacità"^]
+
+Keystone Flex Subscription:: Un servizio basato su abbonamento con pagamento in base alla crescita che offre un'esperienza cloud ibrida senza interruzioni per coloro che preferiscono i modelli di consumo OpEx rispetto a CapEx anticipati o al leasing.
++
+--
+La tariffazione si basa sulla dimensione della capacità impegnata per una o più coppie HA di Cloud Volumes ONTAP nel tuo abbonamento Keystone Flex.
+
+--
+
+
+Il precedente modello di licensing by-node rimane disponibile per i clienti esistenti che hanno già acquistato una licenza o che hanno un abbonamento attivo al marketplace.
+
+https://docs.netapp.com/us-en/bluexp-cloud-volumes-ontap/concept-licensing.html["Scopri di più su queste opzioni di licensing"^]
