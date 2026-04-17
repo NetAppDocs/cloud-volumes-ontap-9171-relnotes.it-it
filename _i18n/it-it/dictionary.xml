@@ -886,4 +886,8 @@
   <block id="0914be2f951ac967ea57e8cf04de3d8a" category="paragraph">La patch Cloud Volumes ONTAP 9.17.1 P5 è ora disponibile per l'upgrade su AWS, Azure e Google Cloud. La Console ti chiederà di aggiornare i tuoi sistemi esistenti a questa versione di patch.</block>
   <block id="e890150484086859b9a5078abe9c6f20" category="inline-link-macro">Visualizza l'elenco dei bug risolti nella patch P5</block>
   <block id="58063f638b2fb1a02b64e1b1d04288f3" category="paragraph"><block ref="5b83e391540a70916a5ffdb75019f186" category="inline-link-macro-rx"></block> (accesso al sito di supporto NetApp richiesto).</block>
+  <block id="4133eb3a6ce0934c2666f78dc15d8b94" category="section-title">9.17.1 P6 (17 aprile 2026)</block>
+  <block id="c7bcac860b797f27404d6345b36c3e95" category="paragraph">La patch Cloud Volumes ONTAP 9.17.1 P6 è ora disponibile per l'upgrade su AWS, Azure e Google Cloud. La Console ti chiederà di aggiornare i tuoi sistemi esistenti a questa versione di patch.</block>
+  <block id="4d90d21642c7222312363da000d7409f" category="inline-link-macro">Visualizza l'elenco dei bug risolti nella patch P6</block>
+  <block id="9cc7d1e306d6a5fe0c2d14528a2bbb0d" category="paragraph"><block ref="d1851ca2607b699d731598b241fc23ed" category="inline-link-macro-rx"></block> (accesso al sito di supporto NetApp richiesto).</block>
 </blocks>
